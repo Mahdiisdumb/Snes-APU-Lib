@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Snes-APU-Lib.vcxproj" Id="1c800864-75df-4849-b755-f79de431360e" />
+</Solution>
